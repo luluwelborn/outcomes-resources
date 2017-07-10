@@ -35,6 +35,7 @@
 	I would love to be a hybrid wed designer/developer, that is my ultimate goal, but I will need to strengthen my dev skills first, so I'll pretty much take what I can get as a jr dev.
 
 8. Provide a link to your resume (it should be a file in your repo as well)
+	https://github.com/luluwelborn/outcomes-resources/blob/master/resume-lauren-welborn.pdf
 
 ## Community
 
