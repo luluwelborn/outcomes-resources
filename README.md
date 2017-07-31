@@ -12,7 +12,9 @@
 ## About Me ReadMe info:
 
 1. What you did you do before GA?
-	I worked full-time for an in-house ux/web designer for PorchLight Real Estate
+	I worked full-time as a ux/web designer for PorchLight Real Estate on the development team. There I used agile project management software, wrote user stories and have a deep understanding of development workflows. I did website feature planning, UX research, UI planning and implementation, wireframes, and mock-ups of future work.
+
+	My job before that was UX/web design at FRUITION, an internet marketing firm where I designed multiple websites and email marketing campagns.
 
 2. What kind of support do you think you'll need most from Outomes?
 	Help finding the places to apply to that I'll be happy at.
