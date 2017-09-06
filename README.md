@@ -1,3 +1,34 @@
+## About Me ReadMe info:
+
+1. What I did you do before GA:
+	I worked full-time as a ux/web designer for PorchLight Real Estate on the development team. There I used agile project management software, wrote user stories and have a deep understanding of development workflows. I did website feature planning, UX research, UI planning and implementation, wireframes, and mock-ups of future work.
+
+	My job before that was UX/web design at FRUITION, an internet marketing firm where I designed multiple websites and email marketing campagns.
+
+2. Support I'll need most from Outomes?
+	Help finding the places to apply to that I'll be happy at.
+
+3. Day 1 goals for this course:
+	To leave this course with the ability to develop my own websites from start to finish and get a job I enjoy.
+
+4. Two truths and a lie about myself:
+	I love chocolate cake and would eat it for every meal if I could.
+	My partner/bf is 7 years younger than me.
+	I have a tattoo on the inside of my lip.
+
+5. LinkedIn Profile :
+	https://www.linkedin.com/in/lauren-welborn-71156b9/
+
+6. Kind of company I'd like to work for:
+	I would love to be in a creative and/or agency invironment. I loved working in an agency becuase of the culture, being at the forefront of tech/best practices, and having a variety of work. That being said, where I go after the program does depend on the skills I've gained at GA. If I get to a solid level of front-end-dev, then I will probably work anywhere if I can learn a lot of fundamentals in one or two years.
+
+7. Kind of role I'm leaning towards:
+	I would love to be a hybrid wed designer/developer, but would be open to taking a strictly front-end development job or strictly web design job with development work opportunities.
+
+8. Resume:
+	https://github.com/luluwelborn/outcomes-resources/blob/master/resume-lauren-welborn.pdf
+
+
 # Outcome Resources
 
 ## Book Time with Becca
@@ -8,36 +39,6 @@
 
 ![Qualification Requirements](img/qualification.png)
 ![Seeking Status](img/seekingstatus.png)
-
-## About Me ReadMe info:
-
-1. What you did you do before GA?
-	I worked full-time as a ux/web designer for PorchLight Real Estate on the development team. There I used agile project management software, wrote user stories and have a deep understanding of development workflows. I did website feature planning, UX research, UI planning and implementation, wireframes, and mock-ups of future work.
-
-	My job before that was UX/web design at FRUITION, an internet marketing firm where I designed multiple websites and email marketing campagns.
-
-2. What kind of support do you think you'll need most from Outomes?
-	Help finding the places to apply to that I'll be happy at.
-
-3. What were were your Day 1 goals for this course?
-	To leave this course with the ability to develop my own websites from start to finish and get a job I enjoy.
-
-4. Give us two truths and a lie about yourself (don't tell us which are which!)
-	I love chocolate cake and would eat it for every meal if I could.
-	My partner/man/bf is 7 years younger than me.
-	I have a tattoo on the inside of my lip.
-
-5. Provide a link to your LinkedIn Profile 
-	https://www.linkedin.com/in/lauren-welborn-71156b9/
-
-6. Describe what kind of company you'd like to work for (i.e. Agency, Startup, etc)
-	I would love to be in a creative invironment. I loved working in an agency becuase of the culture, being at the forefront of tech/best practices, and having a variety of work. That being said, where I go after the program does depend on the skills I've gained at GA. If I get to a solid level of front-end-dev, then I will probably work anywhere if I can learn a lot of fundamentals in one or two years.
-
-7. Describe what kind of role you're leaning towards (i.e. Frontend, Backend, etc)
-	I would love to be a hybrid wed designer/developer, that is my ultimate goal, but I will need to strengthen my dev skills first, so I'll pretty much take what I can get as a jr dev.
-
-8. Provide a link to your resume (it should be a file in your repo as well)
-	https://github.com/luluwelborn/outcomes-resources/blob/master/resume-lauren-welborn.pdf
 
 ## Community
 
