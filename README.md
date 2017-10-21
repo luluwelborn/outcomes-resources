@@ -26,7 +26,7 @@
 	I would love to be a hybrid wed designer/developer, but would be open to taking a strictly front-end development job or strictly web design job with development work opportunities.
 
 8. Resume:
-	https://github.com/luluwelborn/outcomes-resources/blob/master/resume-lauren-welborn.pdf
+	https://github.com/luluwelborn/outcomes-resources/blob/master/lauren-welborn-resume.pdf
 
 
 # Outcome Resources
